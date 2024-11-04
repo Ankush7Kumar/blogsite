@@ -52,3 +52,5 @@
       </plugin>    </plugins>
   </build>
 </project>
+<!-- This is a comment in XML -->
+
